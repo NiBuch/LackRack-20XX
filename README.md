@@ -39,6 +39,6 @@ of 2", so the wood screws should be under that length.
 ### Step 1: Assembling The Tables
 ------
 
-![](https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_142626.jpg "Table with some materials" | =575x426)
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_142626.jpg" width="575" height="426" >
 
 **TODO:** Complete Guide
