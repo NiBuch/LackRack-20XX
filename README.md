@@ -20,8 +20,6 @@ devices should plan their build accordingly.
 ### Materials
 ------
 
-![Materials](https://raw.githubusercontent.com/NiBuch/LackRack-20XX/master/img/IMG_20170102_142626.jpg "Starting Materials")
-
 + 3x [IKEA LackRacks](http://www.ikea.com/us/en/catalog/products/40104270/#/20011408)
 + 1x [Pair of 16U Rack Rails](https://www.amazon.com/gp/product/B00JJ18P3K/ref=oh_aui_detailpage_o07_s01?ie=UTF8&psc=1)
 + 4x [Locking Caster Wheels](http://www.acehardware.com/product/index.jsp?productId=1296565)
