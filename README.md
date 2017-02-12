@@ -1,7 +1,7 @@
 # LackRack 20XX
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="426" height="575" >
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="255" height="345" >
 
 This is a 2017 take on a classic project: [The LackRack](https://wiki.eth0.nl/index.php/LackRack)
 
@@ -41,6 +41,6 @@ of 2", so the wood screws should be under that length.
 ### Step 1: Assembling The Tables
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="426" height="575" >
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345" >
 
 **TODO:** Complete Guide
