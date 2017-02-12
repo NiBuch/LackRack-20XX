@@ -1,6 +1,8 @@
 # LackRack 20XX
 ------
 
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="426" height="575" >
+
 This is a 2017 take on a classic project: [The LackRack](https://wiki.eth0.nl/index.php/LackRack)
 
 For those unfamiliar, the legs on IKEA's [LACK](http://www.ikea.com/us/en/catalog/products/40104270/#/20011408)
@@ -39,6 +41,6 @@ of 2", so the wood screws should be under that length.
 ### Step 1: Assembling The Tables
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_142626.jpg" width="575" height="426" >
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="575" height="426" >
 
 **TODO:** Complete Guide
