@@ -64,22 +64,25 @@ edge with 'E' for 'end.' Along with reassembly, this also helps with lining up h
 ### Step 2: Measuring Holes For Rails
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145001.jpg" width="255" height="345">
-Stack the two tables on top of each other as shown here. The legs tend to differ in length,
+<table>
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145001.jpg" width="255" height="345"></td>
+<td>Stack the two tables on top of each other as shown here. The legs tend to differ in length,
 and you'll want to rotate one table until you have a minimal amount of wobble between them. If you're
-adding rails, make sure to select the two sturdiest legs, with little to no gap between them.
+adding rails, make sure to select the two sturdiest legs, with little to no gap between them.</td></tr>
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_150348.jpg" width="255" height="345">
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_150335.jpg" width="255" height="345">
-
-Remove the two pairs of legs you'll be attaching the rails to, paying attention to the numbering 
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_150348.jpg" width="255" height="345"></td>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_150335.jpg" width="255" height="345"></td>
+<td>Remove the two pairs of legs you'll be attaching the rails to, paying attention to the numbering 
 and their marked edges. Lay the flat ends against each other, being sure to line up the edges marked 'E' in
 the previous step. This is done to ensure that the outside edges from when we assembled the tables will still
 be the outside edges when we reattach the legs, and to make sure we drill our rail mounting holes into the
-correct sides of the legs.
+correct sides of the legs.</td></tr>
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_152336.jpg" width="255" height="345">
-I used blue painter's tape to hold the legs together, but any clamp/tape will work. Once you have the legs
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_152336.jpg" width="255" height="345"></td>
+<td>I used blue painter's tape to hold the legs together, but any clamp/tape will work. Once you have the legs
 together, lay your rails down the edge you'll be attaching them to. I attached mine such that the rackmount
 holes were inside the rack (invisible from the front), but it was a strictly aesthetic decision. Regardless
 of whether your rackmount holes are rear- or front-facing, make sure that the non-rackmount holes on the rails
@@ -88,7 +91,8 @@ bottom base. When you're comfortable with the placement, drill a small hole towa
 using the rail's holes as a guide. Do the same at the topmost hole, then put a screw through each to attach
 the rail to the leg. Using a larger bit, also add wood screws to the non-rackmount side using this process, being
 careful not to hit the rackmount screws with your wood screws. The combination of these will hold the leg in
-place while we measure and pre-drill the other holes.
+place while we measure and pre-drill the other holes.</td></tr>
+</table>
 
 Note that the legs themselves are hollow except at the top, near where they connect to the table base. Take your time,
 and don't be caught off guard if you're drilling and the wood feels like it abruptly gives way.
