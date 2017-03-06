@@ -1,7 +1,8 @@
 # LackRack 20XX
 ------
-
+<div align="center">
 <img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="255" height="345" >&nbsp;<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_182450.jpg" width="255" height="345" >
+</div>
 
 This is a 2017 take on a classic project: [The LackRack](https://wiki.eth0.nl/index.php/LackRack)
 
@@ -41,13 +42,15 @@ of 2", so the wood screws should be under that length.
 ### Step 1: Assembling The Tables
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345" align="left" />  
+<div align="left">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345">  
 Begin by assembling two of the tables. This is accomplished by twisting the screws partway into each leg, then
 twisting the legs into the bases. Once fully tightened, half the screw should be in the leg and the other half
 should be in the table. I couldn't get the screws all the way into any of the legs by themselves, but they
 tightened up after attaching them to the base.
+</div>
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" align="right" />
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" align="right">
 I wanted the ability to disassemble and reassemble the rack, and I found that each leg fit differently in each
 base/hole. During assembly, I numbered the bottom of each leg and the hole the leg connected to on the base.
 As I attached each leg, I lined it up squarely with the corner it was on and marked the corner edge with an
