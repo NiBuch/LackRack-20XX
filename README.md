@@ -67,7 +67,7 @@ edge with 'E' for 'end.' Along with reassembly, this also helps with lining up h
 <table>
 <tr>
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145001.jpg" width="255" height="345"></td>
-<td>Stack the two tables on top of each other as shown here. The legs tend to differ in length,
+<td colspan="2">Stack the two tables on top of each other as shown here. The legs tend to differ in length,
 and you'll want to rotate one table until you have a minimal amount of wobble between them. If you're
 adding rails, make sure to select the two sturdiest legs, with little to no gap between them.</td></tr>
 
@@ -82,7 +82,7 @@ correct sides of the legs.</td></tr>
 
 <tr>
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_152336.jpg" width="255" height="345"></td>
-<td>I used blue painter's tape to hold the legs together, but any clamp/tape will work. Once you have the legs
+<td colspan="2">I used blue painter's tape to hold the legs together, but any clamp/tape will work. Once you have the legs
 together, lay your rails down the edge you'll be attaching them to. I attached mine such that the rackmount
 holes were inside the rack (invisible from the front), but it was a strictly aesthetic decision. Regardless
 of whether your rackmount holes are rear- or front-facing, make sure that the non-rackmount holes on the rails
