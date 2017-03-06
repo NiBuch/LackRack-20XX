@@ -1,6 +1,7 @@
-<div align="center">
+
 # LackRack 20XX
 ------
+<div align="center">
 <img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_211209.jpg" width="255" height="345" >&nbsp;<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_182450.jpg" width="255" height="345" >
 </div>
 
@@ -51,7 +52,7 @@ tightened up after attaching them to the base.
 </p>
 
 <img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" align="right">
-<p align=">
+<p>
 I wanted the ability to disassemble and reassemble the rack, and I found that each leg fit differently in each
 base/hole. During assembly, I numbered the bottom of each leg and the hole the leg connected to on the base.
 As I attached each leg, I lined it up squarely with the corner it was on and marked the corner edge with an
