@@ -41,13 +41,13 @@ of 2", so the wood screws should be under that length.
 ### Step 1: Assembling The Tables
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345" style="float:left;"> 
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345" align="left"> 
 Begin by assembling two of the tables. This is accomplished by twisting the screws partway into each leg, then
 twisting the legs into the bases. Once fully tightened, half the screw should be in the leg and the other half
 should be in the table. I couldn't get the screws all the way into any of the legs by themselves, but they
 tightened up after attaching them to the base.
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" style="float:right;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" align="right">
 I wanted the ability to disassemble and reassemble the rack, and I found that each leg fit differently in each
 base/hole. During assembly, I numbered the bottom of each leg and the hole the leg connected to on the base.
 As I attached each leg, I lined it up squarely with the corner it was on and marked the corner edge with an
@@ -58,7 +58,7 @@ edge with 'E' for 'end.' Along with reassembly, this also helps with lining up h
 ### Step 2: Measuring Holes For Rails
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145001.jpg" width="255" height="345" style="float:left;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145001.jpg" width="255" height="345" align="left">
 Stack the two tables on top of each other as shown here. The legs tend to differ in length,
 and you'll want to rotate one table until you have a minimal amount of wobble between them. If you're
 adding rails, make sure to select the two sturdiest legs, with little to no gap between them.
@@ -72,7 +72,7 @@ the previous step. This is done to ensure that the outside edges from when we as
 be the outside edges when we reattach the legs, and to make sure we drill our rail mounting holes into the
 correct sides of the legs.
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_152336.jpg" width="255" height="345" style="float:right;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_152336.jpg" width="255" height="345" align="right">
 I used blue painter's tape to hold the legs together, but any clamp/tape will work. Once you have the legs
 together, lay your rails down the edge you'll be attaching them to. I attached mine such that the rackmount
 holes were inside the rack (invisible from the front), but it was a strictly aesthetic decision. Regardless
@@ -96,13 +96,13 @@ added so that the legs don't buckle out at the joint when the rack is under load
 ### Step #3: Reassemble And Add Brackets
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_164332.jpg" width="255" height="345" style="float:left;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_164332.jpg" width="255" height="345" align="left">
 After drilling all the rackmount holes, remove all the screws and the rails from the legs. Then, reassemble the tables,
 utilizing the numbering and marked edges we applied in Step 1. Once your tables are back together, stack them and reattach
 your rails to the legs using only the larger wood screws on the non-rackmount sides. The rack should now be fairly stable,
 but feel free to mount some gear to check.
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_193704.jpg" width="255" height="345" style="float:right;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_193704.jpg" width="255" height="345" align="right">
 To prevent the rear legs from sliding around, attach the mending braces so that they hold the each pair of rear legs together.
 The braces I purchased came in a four pack, so I used two on each pair of rear legs. Combined with the rails on the front
 legs, they greatly stabilized the rack.
@@ -111,13 +111,13 @@ legs, they greatly stabilized the rack.
 ### Step 4: Add Caster Wheels
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_200634.jpg" width="255" height="345" style="float:left;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_200634.jpg" width="255" height="345" align="left">
 Remove any mounted gear, and rotate the rack so that it's resting on it's side. On the bottom, attach the caster wheels such
 that their bases are flush with the edges of the table. The table bases are hollow except for a wood frame that runs along
 the edges. Try to to drill the three outermost screws on each caster into this frame, and don't be surprised if the innermost
 screw feels like it abruplty goes through the wood (like when drilling into the hollow table legs).
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_201052.jpg" width="255" height="345" style="float:right;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_201052.jpg" width="255" height="345" align="right">
 After attaching the caster wheels, flip the rack rightside up. If you're not adding a third table, the rack is ready to start
 mounting gear into.
 
@@ -125,7 +125,7 @@ mounting gear into.
 ### Step 5: (Optional) Attach Third Table
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_143721.jpg" width="255" height="345" style="float:left;">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_143721.jpg" width="255" height="345" align="left">
 Assemble the third table the same way we did in Step 1, again applying our number/edge marking scheme. Once complete, set it on
 top of the rack, rotating to find the orientation with the least gaps/wobble. When you've found one that's stable, use the L-braces
 to the screw the top table into place. I found it helped to push the top table's legs outward while doing this, to make them more
