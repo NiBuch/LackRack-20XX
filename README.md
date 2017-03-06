@@ -1,3 +1,27 @@
+<style>
+
+img {
+ display: block;
+}
+
+img.wrap {
+ max-width: 70%;
+ margin: 5% 0%;
+}
+
+img.align-right {
+ float: right;
+ margin-left: 5%;
+}
+
+img.align-left {
+ float: left;
+ margin-right: 5%;
+}
+
+</style>
+
+
 # LackRack 20XX
 ------
 
