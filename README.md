@@ -45,7 +45,7 @@ of 2", so the wood screws should be under that length.
 
 <table>
 <tr>
-<td><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345"></td>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345"></td>
 <td>Begin by assembling two of the tables. This is accomplished by twisting the screws partway into each leg, then
 twisting the legs into the bases. Once fully tightened, half the screw should be in the leg and the other half
 should be in the table. I couldn't get the screws all the way into any of the legs by themselves, but they
