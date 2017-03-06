@@ -114,8 +114,8 @@ your rails to the legs using only the larger wood screws on the non-rackmount si
 but feel free to mount some gear to check.</td></tr>
 
 <tr>
-<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_193704.jpg" width="255" height="345">
-To prevent the rear legs from sliding around, attach the mending braces so that they hold the each pair of rear legs together.
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_193704.jpg" width="255" height="345"></td>
+<td>To prevent the rear legs from sliding around, attach the mending braces so that they hold the each pair of rear legs together.
 The braces I purchased came in a four pack, so I used two on each pair of rear legs. Combined with the rails on the front
 legs, they greatly stabilized the rack.</td></tr>
 </table>
