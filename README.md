@@ -43,18 +43,22 @@ of 2", so the wood screws should be under that length.
 ### Step 1: Assembling The Tables
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345">
-Begin by assembling two of the tables. This is accomplished by twisting the screws partway into each leg, then
+<table>
+<tr>
+<td><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345"></td>
+<td>Begin by assembling two of the tables. This is accomplished by twisting the screws partway into each leg, then
 twisting the legs into the bases. Once fully tightened, half the screw should be in the leg and the other half
 should be in the table. I couldn't get the screws all the way into any of the legs by themselves, but they
-tightened up after attaching them to the base.
-
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345">
-I wanted the ability to disassemble and reassemble the rack, and I found that each leg fit differently in each
+tightened up after attaching them to the base.</td></tr>
+<tr>
+<td><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345"></td>
+<td>I wanted the ability to disassemble and reassemble the rack, and I found that each leg fit differently in each
 base/hole. During assembly, I numbered the bottom of each leg and the hole the leg connected to on the base.
 As I attached each leg, I lined it up squarely with the corner it was on and marked the corner edge with an
 'S' for 'start.' After twisting it and tightening to the base, I marked the new (or sometimes same) corner
-edge with 'E' for 'end.' Along with reassembly, this also helps with lining up holes for the rack rails.
+edge with 'E' for 'end.' Along with reassembly, this also helps with lining up holes for the rack rails.</td>
+</tr>
+</table>
 
 ------
 ### Step 2: Measuring Holes For Rails
