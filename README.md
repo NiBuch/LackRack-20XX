@@ -48,7 +48,7 @@ of 2", so the wood screws should be under that length.
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145642.jpg" width="255" height="345"></td>
 <td>Begin by assembling two of the tables. This is accomplished by twisting the screws partway into each leg, then
 twisting the legs into the bases. Once fully tightened, half the screw should be in the leg and the other half
-should be in the table. I couldn't get the screws all the way into any of the legs by themselves, but they
+should be in the table. I couldn't get the screws all of the way into any of the legs by themselves, but they
 tightened up after attaching them to the base.</td></tr>
 <tr>
 <td><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345"></td>
@@ -69,7 +69,7 @@ edge with 'E' for 'end.' Along with reassembly, this also helps with lining up h
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_145001.jpg" width="255" height="345"></td>
 <td colspan="2">Stack the two tables on top of each other as shown here. The legs tend to differ in length,
 and you'll want to rotate one table until you have a minimal amount of wobble between them. If you're
-adding rails, make sure to select the two sturdiest legs, with little to no gap between them.</td></tr>
+adding rails, make sure to select the two sturdiest legs to attach them to, with little to no gaps where the leg ends meet.</td></tr>
 
 <tr>
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_150348.jpg" width="255" height="345"></td>
@@ -86,12 +86,12 @@ correct sides of the legs.</td></tr>
 together, lay your rails down the edge you'll be attaching them to. I attached mine such that the rackmount
 holes were inside the rack (invisible from the front), but it was a strictly aesthetic decision. Regardless
 of whether your rackmount holes are rear- or front-facing, make sure that the non-rackmount holes on the rails
-are on the inside of the legs, and that your rail is flush with the bottom of leg that will be attached to the
+are on the inside of the legs, and that your rail is flush with the bottom of the leg that will be attached to the
 bottom base. When you're comfortable with the placement, drill a small hole towards the bottom of the leg,
 using the rail's holes as a guide. Do the same at the topmost hole, then put a screw through each to attach
-the rail to the leg. Using a larger bit, also add wood screws to the non-rackmount side using this process, being
-careful not to hit the rackmount screws with your wood screws. The combination of these will hold the leg in
-place while we measure and pre-drill the other holes.</td></tr>
+the rail to the leg. Using a larger bit, drill holes and add wood screws to the non-rackmount side using this same process, being
+careful not to hit the rackmount screws when drilling and screwing them in. The combination of these will hold the leg in
+place while we measure and pre-drill the other rackmount holes.</td></tr>
 </table>
 
 Note that the legs themselves are hollow except at the top, near where they connect to the table base. Take your time,
@@ -99,8 +99,8 @@ and don't be caught off guard if you're drilling and the wood feels like it abru
 
 If your rackmount screws aren't self-tapping, use a small bit to drill holes along the rackmount sides of the
 legs. It seems tedious, but makes mounting gear to the rack much easier once it's reassembled. I also added extra wood
-screws on the non-rackmount side, near where the legs meet (as well as at the bottom and top of the rails). These were
-added so that the legs don't buckle out at the joint when the rack is under load.
+screws on the non-rackmount side, near where the legs meet (as well as at the bottom and top of the rails). These help
+prevent the legs from buckling at the joint when the rack is under load.
 
 ------
 ### Step #3: Reassemble And Add Brackets
@@ -129,8 +129,8 @@ legs, they greatly stabilized the rack.</td></tr>
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_200634.jpg" width="255" height="345"></td>
 <td>Remove any mounted gear, and rotate the rack so that it's resting on it's side. On the bottom, attach the caster wheels such
 that their bases are flush with the edges of the table. The table bases are hollow except for a wood frame that runs along
-the edges. Try to to drill the three outermost screws on each caster into this frame, and don't be surprised if the innermost
-screw feels like it abruplty goes through the wood (like when drilling into the hollow table legs).</td>
+the edges. Try to screw the three outermost screws on each caster into this frame, and don't be surprised if the innermost
+screw feels like it abruplty goes through the hollow base (like when drilling into the hollow table legs).</td>
 </tr>
 <tr>
 <td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_201052.jpg" width="255" height="345"></td>
