@@ -105,40 +105,49 @@ added so that the legs don't buckle out at the joint when the rack is under load
 ------
 ### Step #3: Reassemble And Add Brackets
 ------
-
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_164332.jpg" width="255" height="345">
-After drilling all the rackmount holes, remove all the screws and the rails from the legs. Then, reassemble the tables,
+<table>
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_164332.jpg" width="255" height="345"></td>
+<td>After drilling all the rackmount holes, remove all the screws and the rails from the legs. Then, reassemble the tables,
 utilizing the numbering and marked edges we applied in Step 1. Once your tables are back together, stack them and reattach
 your rails to the legs using only the larger wood screws on the non-rackmount sides. The rack should now be fairly stable,
-but feel free to mount some gear to check.
+but feel free to mount some gear to check.</td></tr>
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_193704.jpg" width="255" height="345">
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_193704.jpg" width="255" height="345">
 To prevent the rear legs from sliding around, attach the mending braces so that they hold the each pair of rear legs together.
 The braces I purchased came in a four pack, so I used two on each pair of rear legs. Combined with the rails on the front
-legs, they greatly stabilized the rack.
+legs, they greatly stabilized the rack.</td></tr>
+</table>
 
 ------
 ### Step 4: Add Caster Wheels
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_200634.jpg" width="255" height="345">
-Remove any mounted gear, and rotate the rack so that it's resting on it's side. On the bottom, attach the caster wheels such
+<table>
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_200634.jpg" width="255" height="345"></td>
+<td>Remove any mounted gear, and rotate the rack so that it's resting on it's side. On the bottom, attach the caster wheels such
 that their bases are flush with the edges of the table. The table bases are hollow except for a wood frame that runs along
 the edges. Try to to drill the three outermost screws on each caster into this frame, and don't be surprised if the innermost
-screw feels like it abruplty goes through the wood (like when drilling into the hollow table legs).
-
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_201052.jpg" width="255" height="345">
-After attaching the caster wheels, flip the rack rightside up. If you're not adding a third table, the rack is ready to start
-mounting gear into.
+screw feels like it abruplty goes through the wood (like when drilling into the hollow table legs).</td>
+</tr>
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170107_201052.jpg" width="255" height="345"></td>
+<td>After attaching the caster wheels, flip the rack rightside up. If you're not adding a third table, the rack is ready to start
+mounting gear into.</td></tr>
+</table>
 
 ------
 ### Step 5: (Optional) Attach Third Table
 ------
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_143721.jpg" width="255" height="345">
-Assemble the third table the same way we did in Step 1, again applying our number/edge marking scheme. Once complete, set it on
+<table>
+<tr>
+<td width="255" height="345"><img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170113_143721.jpg" width="255" height="345"></td>
+<td>Assemble the third table the same way we did in Step 1, again applying our number/edge marking scheme. Once complete, set it on
 top of the rack, rotating to find the orientation with the least gaps/wobble. When you've found one that's stable, use the L-braces
 to the screw the top table into place. I found it helped to push the top table's legs outward while doing this, to make them more
-flush with the base they were being attached to.
-
+flush with the base they were being attached to.</td>
+</tr></table>
 After attaching the final table to the top, your rack is ready for gear!
