@@ -51,7 +51,7 @@ should be in the table. I couldn't get the screws all the way into any of the le
 tightened up after attaching them to the base.
 </p>
 
-<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" align="right">
+<img src="https://github.com/NiBuch/LackRack-20XX/blob/master/img/IMG_20170102_143434.jpg" width="255" height="345" align="left">
 <p>
 I wanted the ability to disassemble and reassemble the rack, and I found that each leg fit differently in each
 base/hole. During assembly, I numbered the bottom of each leg and the hole the leg connected to on the base.
